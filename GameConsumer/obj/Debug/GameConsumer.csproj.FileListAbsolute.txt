@@ -1,0 +1,188 @@
+C:\Users\Kai\source\repos\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kai\source\repos\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kai\source\repos\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kai\source\repos\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kai\source\repos\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Form1.resources
+C:\Users\Kai\source\repos\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kai\source\repos\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kai\source\repos\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kai\source\repos\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kai\source\repos\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kenneth\Desktop\Visual Studio Projects\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\Visual Studio Projects\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\Visual Studio Projects\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\Visual Studio Projects\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\IT119P-A59-24\Desktop\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\IT119P-A59-24\Desktop\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\IT119P-A59-24\Desktop\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\IT119P-A59-24\Desktop\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\IT119P-A59-24\Desktop\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\IT119P-A59-24\Desktop\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\IT119P-A59-24\Desktop\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\IT119P-A59-24\Desktop\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\IT119P-A59-24\Desktop\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kenneth\Desktop\Visual Studio Projects\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Game.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Game.resources
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Login.resources
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\Latest BATTLESHIP\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Game.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Login.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Game.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Login.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Game.resources
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Login.resources
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Login.resources
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\GameConsumer\obj\Debug\GameConsumer.GameForm.resources
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Debug\GameConsumer.GameForm.resources
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Login.resources
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\obj\Debug\GameConsumer.GameForm.resources
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Login.resources
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kenneth\Desktop\Visual Studio Projects\Battleship with Sound\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.GameForm.resources
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Login.resources
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.GameForm.resources
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Login.resources
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.GameForm.resources
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Login.resources
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe.config
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\bin\Debug\GameConsumer.exe
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\bin\Debug\GameConsumer.pdb
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.dll
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\bin\Debug\Newtonsoft.Json.xml
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csprojResolveAssemblyReference.cache
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.GameForm.resources
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Login.resources
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Setup.resources
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.Properties.Resources.resources
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.GenerateResource.Cache
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.csproj.CoreCompileInputs.cache
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.exe
+D:\SCHOOL\C#\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\GameConsumer\obj\Debug\GameConsumer.pdb

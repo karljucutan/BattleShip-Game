@@ -1,0 +1,28 @@
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\bin\Release\GameConsumer.exe.config
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\bin\Release\GameConsumer.exe
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\bin\Release\GameConsumer.pdb
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\bin\Release\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\bin\Release\Newtonsoft.Json.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Release\GameConsumer.GameForm.resources
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Release\GameConsumer.Login.resources
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Release\GameConsumer.Setup.resources
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Release\GameConsumer.Properties.Resources.resources
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Release\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Release\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Release\GameConsumer.exe
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Release\GameConsumer.pdb
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\GameConsumer\obj\Release\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Release\GameConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Release\GameConsumer.GameForm.resources
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Release\GameConsumer.Login.resources
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Release\GameConsumer.Setup.resources
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Release\GameConsumer.Properties.Resources.resources
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Release\GameConsumer.csproj.GenerateResource.Cache
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Release\GameConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Release\GameConsumer.exe
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\obj\Release\GameConsumer.pdb
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Release\GameConsumer.exe.config
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Release\GameConsumer.exe
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Release\GameConsumer.pdb
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Release\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\GameConsumer\bin\Release\Newtonsoft.Json.xml

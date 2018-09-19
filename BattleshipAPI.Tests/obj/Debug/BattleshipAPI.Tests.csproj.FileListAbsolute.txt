@@ -1,0 +1,192 @@
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll.config
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll.config
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll.config
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll.config
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll.config
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll.config
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll.config
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.pdb
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll.config
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll.config
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.pdb
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll.config
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll.config
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.pdb
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll.config
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll.config
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.pdb
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll.config
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll.config
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.Tests.pdb
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.pdb
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\BattleshipAPI.dll.config
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.dll
+C:\Users\Kai\Desktop\BATTLESHIP\Battleship with WebService FINAL\GameConsumer\BattleshipAPI.Tests\obj\Debug\BattleshipAPI.Tests.pdb

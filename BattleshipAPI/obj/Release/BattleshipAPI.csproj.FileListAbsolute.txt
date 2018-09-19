@@ -1,0 +1,102 @@
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll.config
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\BattleshipAPI.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\System.Web.Http.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\System.Web.Http.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll.config
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\BattleshipAPI.pdb
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Web.Http.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Web.Http.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.dll
+C:\Users\Kenneth\Desktop\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll.config
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\BattleshipAPI.pdb
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Web.Http.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.xml
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Web.Http.xml
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.dll
+C:\Users\Kenneth\Desktop\Visual Studio Projects\YUNG INEEDIT GAME CONSUMER with Service v2\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.pdb
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll.config
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\BattleshipAPI.pdb
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\System.Web.Http.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\System.Web.Http.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.dll
+C:\Users\Kai\Desktop\AYOS NA\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.pdb
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll.config
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\BattleshipAPI.pdb
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\System.Web.Http.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\System.Web.Http.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.dll
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.pdb
+C:\Users\Kai\Desktop\PINAKA BATTLESHIP\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll.config
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\BattleshipAPI.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\BattleshipAPI.pdb
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\System.Web.Http.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\Newtonsoft.Json.xml
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\System.Web.Http.xml
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.dll
+C:\Users\Kai\Desktop\Battleship with Local Checking and Replay\GameConsumer\BattleshipAPI\obj\Release\BattleshipAPI.pdb
